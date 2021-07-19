@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Design</string>
+
+    <string name="header_add_new_entry">ADD NEW</string>
+    <string name="header_operation">OPERATION</string>
+    <string name="header_person">PERSON</string>
+    <string name="header_debts">DEBTS</string>
+    <string name="header_debts_manager">DEBTS MANAGER</string>
+
+    <string name="tv_name">Name</string>
+    <string name="tv_contact">Contact</string>
+    <string name="tv_debt">Amount</string>
+    <string name="tv_debt_hint">-0</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_loan_date">Loan date:</string>
+    <string name="tv_loan_date_hint">Taken: DD:MM:YYYY</string>
+    <string name="tv_payment_date">Payment date:</string>
+    <string name="tv_payment_date_hint">Date: _ _ :_ _ :_ _ _ _</string>
+    <string name="tv_total">Total:</string>
+    <string name="tv_debt_amount_hint">+1000</string>
+    <string name="tv_statistic">Statistic</string>
+    <string name="tv_debt_me_hint">+0</string>
+    <string name="tv_my_debt_hint">-0</string>
+    <string name="tv_category">Categories</string>
+
+    <string name="ed_debt">1000</string>
+    <string name="ed_contact">9-999-999-99-99</string>
+
+    <string name="b_ok">OK</string>
+    <string name="b_cancel">CANCEL</string>
+    <string name="b_date_hint">dd:mm:yyyy</string>
+    <string name="b_my_debt">I owe</string>
+    <string name="b_debt_me">Owe me</string>
+
+    <string name="rb_my_debt">I OWE</string>
+    <string name="rb_debt_me">OWE ME</string>
+
+    <string name="intent_keys_person">person</string>
+    <string name="intent_keys_debt">debt</string>
+</resources>
